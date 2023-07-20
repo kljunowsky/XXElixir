@@ -1,5 +1,13 @@
-# XXElixir 🧪
-This tool is designed to test for file upload and XXE (XML External Entity) vulnerabilities by poisoning an XLSX file. It allows the user to inject custom XML content or specify an out-of-band URL to retrieve data from an external entity. The tool works by unzipping the input XLSX file, modifying the workbook.xml file to include the user-specified XML content or URL, and then zipping the modified directory back into a new XLSX file. The resulting file can be used to test for file upload and XXE vulnerabilities in web applications that accept XLSX files.
+<p align="center">
+    <img src="XXElixir.svg" height="50%" width="50%" Setfill=None>
+</p>
+
+<h1 align="center">
+XXElixir 🧪
+</h1>
+<p align="center">
+his tool is designed to test for file upload and XXE (XML External Entity) vulnerabilities by poisoning an XLSX file. It allows the user to inject custom XML content or specify an out-of-band URL to retrieve data from an external entity. The tool works by unzipping the input XLSX file, modifying the workbook.xml file to include the user-specified XML content or URL, and then zipping the modified directory back into a new XLSX file. The resulting file can be used to test for file upload and XXE vulnerabilities in web applications that accept XLSX files.
+</p>
 
 
 ## Usage 🛠 
