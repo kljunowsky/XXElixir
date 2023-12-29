@@ -47,8 +47,6 @@ Parameter | Description | Type
 
 [LinkedIn - Milan Jovic](https://www.linkedin.com/in/milan-jovic-sec/)
 
-[Shift Security Consulting - Secure Your Digital Future](https://shiftsecurityconsulting.com)
-
 [Twitter - Milan Jovic](https://twitter.com/milanshiftsec)
 
 #### Educational purposes only and cannot be used for law violation or personal gain.
